@@ -1,18 +1,6 @@
-In order to run the script:
+This repository contains the code for the assignment C in the course Guidance, Navigation and Control at University of Southern Denmark. The simulation is based on the PyCopter Framework (Author: H. Garcia de Marina, Contact mail: noeth3r@gmail.com ) 
+
+To run the simulation run the pyhon script:
 
 $ python assignment_c.py
 
-
-Quadcopters simulator used for this assignment:
-
-QUADCOPTER(s) SIMULATOR
---------------------
-
-Author: H. Garcia de Marina  
-Contact mail: noeth3r@gmail.com  
-Webpage/Forum: http://dobratech.com/tools/pycopter  
-Licence: GNU GPL V2, http://www.gnu.org/licenses/gpl-2.0.en.html
-
-Easy and intuitive simulator of quadcopters in Python.
-
-Requirements: Matplotlib 1.5.1 , Numpy 1.11.0 and Scipy 0.14.1

@@ -1,3 +1,9 @@
+In order to run the script:
+$ python assignment_c.py
+
+
+Quadcopters simulator used for this assignment:
+
 QUADCOPTER(s) SIMULATOR
 --------------------
 
